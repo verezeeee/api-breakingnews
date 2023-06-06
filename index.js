@@ -22,9 +22,3 @@ ROTA
 
     -Function (Callback) - Responsável por executar algum comando
 */
-/*app.get("/soma", (req, res) => {
-    const soma = 100 + 1
-
-    res.send({soma: soma})
-})*/
-
